@@ -1,0 +1,5 @@
+H:\PA-2\PA_2_ChangeNameOfFolder\02_DiceGame\bin\Debug\02_DiceGame.exe
+H:\PA-2\PA_2_ChangeNameOfFolder\02_DiceGame\bin\Debug\02_DiceGame.pdb
+H:\PA-2\PA_2_ChangeNameOfFolder\02_DiceGame\obj\x86\Debug\02_DiceGame.exe
+H:\PA-2\PA_2_ChangeNameOfFolder\02_DiceGame\obj\x86\Debug\02_DiceGame.pdb
+H:\PA-2\PA_2_ChangeNameOfFolder\02_DiceGame\obj\x86\Debug\02_DiceGame.csprojResolveAssemblyReference.cache
